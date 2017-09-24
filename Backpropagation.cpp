@@ -1,6 +1,4 @@
-/* @ author Shikhar Sharma
-     15530 NIT Hamirpur
-
+/* @ 
 Implementation for Feedforward + Backpropagation network (Delta Learning Rule)
 Applicable only for Single layer neural network having single o/p
 */
