@@ -1,6 +1,4 @@
-/* @ author Shikhar Sharma
-   15530 NIT Hamirpur 
-
+/* 
   Implementation of Feedforward Network in Artificial Neural Network
 */
 
